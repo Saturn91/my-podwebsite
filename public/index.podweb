@@ -1,3 +1,8 @@
+[meta-]
+domain: test.ch
+author: Saturn91.dev
+[-meta]
+
 [h1] test
 
 [p] this is a simple github hosted page
