@@ -1,10 +1,9 @@
 [meta-]
-domain: test.ch
 author: Saturn91.dev
 [-meta]
 
 [h1] test
 
-[p] this is a simple github hosted page
+[p] this is a simple github hosted page with a png
 
 [img url=https://saturn91.github.io/my-podwebsite/img/thumbnail.png]
